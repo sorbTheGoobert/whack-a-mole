@@ -1,4 +1,7 @@
 # whack deez nuts
+Ok you might be confused. But this game is about whacking nuts. Ya know nuts and bolts.
+
+# A little backstory of edits
 im gonna turn it into osu cuz why not (i dont play it but would be funny).
 edit: this idea sucked bc idk
 edit: i mean its not a rhythm game after all, but i still implemented the keyboard input, the only reason i thought of osu
