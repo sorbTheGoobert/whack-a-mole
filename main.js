@@ -96,6 +96,7 @@ window.addEventListener("mousedown", () => {
     if(gameLost){
         gameLost = false;
         init();
+        firstInput = true;
     }
     if(paused == 1){
         if (firstInput) {
@@ -112,6 +113,7 @@ window.addEventListener("keydown", (event) => {
     if (gameLost) {
         gameLost = false;
         init();
+        firstInput = true;
     }
     if (event.code === "Escape") {
         paused *= -1;
